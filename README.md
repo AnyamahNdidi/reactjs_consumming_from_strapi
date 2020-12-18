@@ -1,0 +1,1 @@
+# reactjs_consumming_from_strapi
